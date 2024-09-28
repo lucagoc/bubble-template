@@ -5,12 +5,12 @@
 #show: bubble.with(
   title: "Bubble template",
   subtitle: "Simple and colorful template",
-  author: "hzkonor",
-  affiliation: "University",
+  author: "Your Name",
+  affiliation: "ISIMA - Clermont Auvergne INP",
   date: datetime.today().display(),
-  year: "Year",
+  year: "2024",
   class: "Class",
-  //main-color: "4DA6FF",
+  main-color: "0157A0",
   logo: image("assets/logo.png"),
   color-words: ("highlight", "important")
 ) 
